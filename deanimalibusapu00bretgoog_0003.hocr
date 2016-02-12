@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deanimalibusapu00bretgoog_0003.png"; bbox 0 0 1025 1527; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 359 686 627 709">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 359 686 627 709">
+     <span class='ocr_line' id='line_1_1' title="bbox 359 686 627 709; baseline -0.007 -3"><span class='ocrx_word' id='word_1_1' title='bbox 359 686 444 706; x_wconf 61' lang='lat' dir='ltr'>{Barbam</span> <span class='ocrx_word' id='word_1_2' title='bbox 460 686 535 709; x_wconf 68' lang='lat' dir='ltr'>atullzgz</span> <span class='ocrx_word' id='word_1_3' title='bbox 549 686 627 709; x_wconf 63' lang='lat' dir='ltr'>libratu</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 455 734 533 743">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 455 734 533 743">
+     <span class='ocr_line' id='line_1_2' title="bbox 455 734 533 743; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 455 734 492 743; x_wconf 65' lang='lat' dir='ltr'>raon</span> <span class='ocrx_word' id='word_1_5' title='bbox 502 734 533 743; x_wconf 66' lang='lat' dir='ltr'>‘tl-¹12</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 338 769 649 782">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 338 769 649 782">
+     <span class='ocr_line' id='line_1_3' title="bbox 338 769 649 782; baseline -0.003 0"><span class='ocrx_word' id='word_1_6' title='bbox 338 769 529 782; x_wconf 68' lang='lat' dir='ltr'>SALISBURY</span> <span class='ocrx_word' id='word_1_7' title='bbox 558 769 649 782; x_wconf 66' lang='lat' dir='ltr'>FUND.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 140 88 926 1282">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 140 88 926 1282">
+     <span class='ocr_line' id='line_1_4' title="bbox 140 88 926 1282; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 140 88 926 1282; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
